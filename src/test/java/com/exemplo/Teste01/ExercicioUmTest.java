@@ -1,15 +1,17 @@
-package com.exemplo;
+package com.exemplo.Teste01;
+
 
 import org.example.Teste01.TesteUm;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 public class ExercicioUmTest {
 
     @Test
     public void test1() {
-        String pangram1 = "Grave e cabisbaixo, o filho justo zelava pela querida mãe doente";
+        String pangram1 = "Quero faxina nas locadoras de video: jogue blitz com whisky PM";
         TesteUm pc = new TesteUm();
         assertEquals(true, pc.check(pangram1));
     }
