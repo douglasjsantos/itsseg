@@ -1,7 +1,7 @@
-package com.exemplo.Teste01;
+package com.exemplo.tests.Teste01;
 
 
-import org.example.Teste01.TesteUm;
+import org.example.exercicios.Teste01.TesteUm;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,4 +1,4 @@
-package org.example.Teste06;
+package org.example.exercicios.Teste06;
 
 public class SumDigits {
 

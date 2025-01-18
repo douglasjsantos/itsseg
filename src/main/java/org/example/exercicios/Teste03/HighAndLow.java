@@ -1,4 +1,4 @@
-package org.example.Teste03;
+package org.example.exercicios.Teste03;
 
 import java.util.ArrayList;
 

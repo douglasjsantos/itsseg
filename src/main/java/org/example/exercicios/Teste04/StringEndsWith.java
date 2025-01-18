@@ -1,4 +1,4 @@
-package org.example.Teste04;
+package org.example.exercicios.Teste04;
 
 public class StringEndsWith {
 

@@ -1,6 +1,6 @@
-package com.exemplo.Teste03;
+package com.exemplo.tests.Teste03;
 
-import org.example.Teste03.HighAndLow;
+import org.example.exercicios.Teste03.HighAndLow;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

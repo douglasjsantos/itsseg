@@ -1,4 +1,4 @@
-package org.example.Teste05;
+package org.example.exercicios.Teste05;
 
 public class ReverseWords {
     public static String reverseWords(String str) {

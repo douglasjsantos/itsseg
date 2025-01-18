@@ -1,6 +1,6 @@
-package com.exemplo.Teste05;
+package com.exemplo.tests.Teste05;
 
-import org.example.Teste05.ReverseWords;
+import org.example.exercicios.Teste05.ReverseWords;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

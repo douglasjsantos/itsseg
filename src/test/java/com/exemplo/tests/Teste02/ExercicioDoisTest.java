@@ -1,6 +1,6 @@
-package com.exemplo.Teste02;
+package com.exemplo.tests.Teste02;
 
-import org.example.Teste02.ExercicioDois;
+import org.example.exercicios.Teste02.ExercicioDois;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

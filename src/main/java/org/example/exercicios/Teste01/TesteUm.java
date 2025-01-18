@@ -1,4 +1,4 @@
-package org.example.Teste01;
+package org.example.exercicios.Teste01;
 
 import java.text.Normalizer;
 import java.util.HashSet;

@@ -1,6 +1,6 @@
-package com.exemplo.Teste04;
+package com.exemplo.tests.Teste04;
 
-import org.example.Teste04.StringEndsWith;
+import org.example.exercicios.Teste04.StringEndsWith;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
